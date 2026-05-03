@@ -1,4 +1,4 @@
-# Tricorder — Rev 2
+<img width="3024" height="3024" alt="D898B357-BA0E-4ABB-AE65-7AF81F2D287C_1_201_a" src="https://github.com/user-attachments/assets/74bc5125-23a0-4944-839c-8b98aed30f8c" /># Tricorder — Rev 2
 
 > A functional Star Trek Tricorder replica powered by the Seeed Studio XIAO ESP32S3. Features a full LCARS-style UI, multi-sensor environmental monitoring, animated GIF playback, capacitive touch navigation, WS2812B LED control, and synchronized audio — all running on a compact embedded system.
 
@@ -8,6 +8,11 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
+<img width="3024" height="3024" alt="C9D3B1C0-E8B0-46D9-8A76-95833387351D_1_201_a" src="https://github.com/user-attachments/assets/f29d8313-310d-4ffa-adbf-023179df9996" />
+<img width="3024" height="3024" alt="D898B357-BA0E-4ABB-AE65-7AF81F2D287C_1_201_a" src="https://github.com/user-attachments/assets/b97bac55-f910-4ba2-be66-8e120b2faad0" />
+<img width="3024" height="3024" alt="0B5817C7-A3F8-4416-9027-DED657F4F8F7_1_201_a" src="https://github.com/user-attachments/assets/8cc987ec-9525-48df-8e26-ff7271fb0db2" />
+<img width="3024" height="3024" alt="FD04805C-4006-4418-B474-EAECC4CE09D8_1_201_a" src="https://github.com/user-attachments/assets/3bcfa466-2c80-4e9c-91ed-f495ec9bb657" />
+
 
 ## Table of Contents
 
@@ -141,8 +146,8 @@ Boot
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/star-trek-tricorder-rev2.git
-cd star-trek-tricorder-rev2
+https://github.com/vishalqsoni/Tricoder-Rev2
+cd Tricorder-rev2
 ```
 
 ### 2. Install the Arduino board package
@@ -235,10 +240,8 @@ Toggle WS2812B animations on or off via the `E` touch input. Disabling LEDs redu
 ---
 
 ## Credits
-
-- **Firmware & System Design** — [Your Name](https://github.com/yourusername)
-- **Hardware, PCB & Enclosure** — [Vishal Soni](https://github.com/vishalsoni)
-- **3D Printing** — [JustWay](https://justway3d.com)
+- **Firmware & System Design** — [Vishal Soni](https://github.com/vishalqsoni)
+- **3D Printing Service** — [JustWay](https://justway.com)
 
 ---
 
