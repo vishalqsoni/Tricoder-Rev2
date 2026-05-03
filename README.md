@@ -1,4 +1,4 @@
-<img width="3024" height="3024" alt="D898B357-BA0E-4ABB-AE65-7AF81F2D287C_1_201_a" src="https://github.com/user-attachments/assets/74bc5125-23a0-4944-839c-8b98aed30f8c" /># Tricorder — Rev 2
+# Tricorder — Rev 2
 
 > A functional Star Trek Tricorder replica powered by the Seeed Studio XIAO ESP32S3. Features a full LCARS-style UI, multi-sensor environmental monitoring, animated GIF playback, capacitive touch navigation, WS2812B LED control, and synchronized audio — all running on a compact embedded system.
 
